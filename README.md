@@ -1,2 +1,2 @@
 # entrance
-PYQs and materials for entrance exams
+Materials for JECA, NIMCET, CMI & TIFR entrances
